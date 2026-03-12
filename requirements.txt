@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+networkx
+pydeck
+plotly
+scikit-learn
