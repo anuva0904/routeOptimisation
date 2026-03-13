@@ -72,8 +72,3 @@ dist/
 # -------------------------------
 Thumbs.db
 
-# -------------------------------
-# Large datasets (optional)
-# -------------------------------
-data/*.csv
-!data/sample_data.csv
